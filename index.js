@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GC_Hotline_Userscript
-// @namespace    http://tampermonkey.net/
+// @namespace    none
 // @version      0.1
 // @description  Link to people.epfl.ch on user name
 // @author       nicrausaz
