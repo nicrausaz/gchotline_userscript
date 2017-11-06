@@ -7,6 +7,7 @@
 // @match        https://gchotline.epfl.ch/*
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js
+// @downloadURL https://raw.githubusercontent.com/nicrausaz/gchotline_userscript/master/index.js
 // ==/UserScript==
 
 $(document).ready(function () {
